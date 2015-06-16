@@ -7,7 +7,7 @@
     "stripe",
     "checkout"
   ],
-  "repository": "https://github.com/christophercliff/heroku-stripe-checkout",
+  "repository": "https://github.com/zuuno/heroku-stripe-checkout",
   "success_url": "/uptime",
   "env": {
     "APP_NAME": {
